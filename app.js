@@ -105,6 +105,7 @@ console.log("Total Poin : " + totalPoin);
 
 
 
+
 // ============================================================
 // AKTIVITAS 4: Percabangan if-else — Penentuan Tier Membership
 // ============================================================
